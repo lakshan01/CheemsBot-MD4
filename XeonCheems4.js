@@ -8764,10 +8764,10 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:"I deserve something for my hardwork",
 body: "Click to donate", 
-thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
+thumbnail: fs.readFileSync("XeonMedia/theme/Black%20Queen%20Bot.jpeg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/8737b098fd5702daeb7e0.jpg',
-sourceUrl: "https://telegra.ph/file/8737b098fd5702daeb7e0.jpg"
+mediaUrl: 'https://github.com/lakshan01/CheemsBot-MD4/blob/master/XeonMedia/theme/Black%20Queen%20Bot.jpeg',
+sourceUrl: "https://github.com/lakshan01/CheemsBot-MD4/blob/master/XeonMedia/theme/Black%20Queen%20Bot.jpeg"
 }}
 }
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
