@@ -58,28 +58,28 @@ global.vcardowner = ['94761676948'] //ur owner number
 global.ownername = "🔖𝗠𝗥.𝗔𝗥𝗢𝗦𝗛𝗔" //ur owner name
 global.ytname = "YT: 🔖𝗠𝗥.𝗔𝗥𝗢𝗦𝗛𝗔" //ur yt chanel name
 global.socialm = "GitHub: 🔖𝗠𝗥.𝗔𝗥𝗢𝗦𝗛𝗔" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Sri Lanka, Anuradhapura, Rajanganaya" //ur location
 
 //bot bomdy 
 global.owner = ['94761676948']
 global.ownertag = '94761676948' //ur tag number
 global.botname = 'Black Queen Bot v1' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.linkz = "https://www.youtube.com/channel/UCkvn8Dwifv6Vz2z1aJBTcGA" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/channel/UCkvn8Dwifv6Vz2z1aJBTcGA" //ur website to be displayed
+global.botscript = 'https://github.com/lakshan01/' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "Black Queen Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🧚‍♀️🧚‍♀️ " //ur sticker watermark packname
+global.author = "Black Queen" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/Black%20Queen%20Bot.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/Black%20Queen%20Bot.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/Black%20Queen%20Bot.jpeg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/Black%20Queen%20Bot.jpeg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['94761676948'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('./XeonMedia/theme/Black%20Queen%20Bot.jpeg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
